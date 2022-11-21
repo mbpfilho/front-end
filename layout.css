@@ -1,0 +1,56 @@
+.topo{
+    width: 90%;
+    height: 100px;
+    background-color: green;
+    margin-left: 5%;
+    border: 5px solid black;box-sizing: border-box;
+}
+.not{
+    width: 50%;
+    height: 150px;
+    background-color: red;
+    margin-left: 5%;
+    float: left;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+    border-bottom: 5px solid black;box-sizing: border-box;
+}
+.dest{
+    width: 40%;
+    height: 150px;
+    background-color: gray;
+    float: left;
+    border-right: 5px solid black;
+    border-bottom: 5px solid black;box-sizing: border-box;
+}
+.preta{
+    margin-left: 5%;
+    width: 23%;
+    height: 100px;
+    background-color: black;
+    float: left;
+}
+.laranja{
+    width: 22%;
+    height: 100px;
+    background-color: orange;
+    float: left;
+    border-right: 5px solid black;
+    border-bottom: 5px solid black;box-sizing: border-box;
+}
+.amarela{
+    width: 22%;
+    height: 100px;
+    background-color: yellow;
+    float: left;
+    border-right: 5px solid black;
+    border-bottom: 5px solid black;box-sizing: border-box;
+}
+.azul{
+    width: 23%;
+    height: 100px;
+    background-color: blue;
+    float: left;
+    border-right: 5px solid black;
+    border-bottom: 5px solid black;box-sizing: border-box;
+}
