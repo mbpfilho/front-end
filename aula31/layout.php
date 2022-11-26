@@ -10,8 +10,12 @@
 <body>
     <header>Header</header>
     <nav>Navigation</nav>
-    <main>Content</main>
-    <aside>Sidebar</aside>
+    <main>
+        <div id="part1">Content</div>
+        <div id="part2"></div>
+        <div id="part3"></div>
+    </main>
+        <aside>Sidebar</aside>
     <footer>Footer</footer>
 </body>
 </html>

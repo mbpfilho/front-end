@@ -2,42 +2,78 @@
     font-family:  Verdana, sans-serif;
     font-weight: bold;
     color: white;
+    margin: 4px;
+    text-align: center;
+    vertical-align: middle;
+}
+body{
+    width: 812px;
+    margin: auto;
 }
 header{
-    width: 90%;
+    width: 800px;
     height: 100px;
     background-color: red;
+    line-height: 100px;
     text-align: center;
-    margin-left: 5%;
     border: 2px solid black;
 }
 nav{
-    width: 50%;
-    height: 150px;
-    background-color: purple;
-    margin-left: 5%;
+    width: 158px;
+    height: 510px;
+    background-color: darkblue;
+    line-height: 500px;
     float: left;
     border: 2px solid black;
 }
 main{
-    width: 40%;
-    height: 150px;
-    background-color: yellow;
-    color: black;
     float: left;
+}
+#part1{
+    width: 480px;
+    line-height: 500px;
+    height: 360px;
+    margin: 0;
+    background-color: yellow;
     border: 2px solid black;
+    border-bottom: 0;
+    color: black;
+}
+#part2{
+    width: 480px;
+    height: 150px;
+    margin: 0;
+    background-color: yellow;
+    border: 2px solid black;
+    border-top: 0;
+    border-right: 0;
+}
+#part3{
+    left: 730px;
+    top: 480px;
+    width: 150px;
+    height: 150px;
+    margin: 0;
+    background-color: yellow;
+    border: 2px solid black;
+    position: absolute;
+    border-left: 0;
+
 }
 aside{
-    margin-left: 5%;
-    width: 23%;
-    height: 100px;
+    left: 738px;
+    width: 136px;
+    height: 348px;
     background-color: darkgreen;
+    line-height: 350px;
     border: 2px solid black;
+    position: absolute;
 }
 footer{
-    margin-left: 5%;
-    width: 90%;
+    width: 800px;
     height: 100px;
     background-color: deepskyblue;
+    line-height: 100px;
     border: 2px solid black;
+    float: left;
 }
