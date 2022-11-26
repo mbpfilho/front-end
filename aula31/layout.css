@@ -1,0 +1,43 @@
+*{
+    font-family:  Verdana, sans-serif;
+    font-weight: bold;
+    color: white;
+}
+header{
+    width: 90%;
+    height: 100px;
+    background-color: red;
+    text-align: center;
+    margin-left: 5%;
+    border: 2px solid black;
+}
+nav{
+    width: 50%;
+    height: 150px;
+    background-color: purple;
+    margin-left: 5%;
+    float: left;
+    border: 2px solid black;
+}
+main{
+    width: 40%;
+    height: 150px;
+    background-color: yellow;
+    color: black;
+    float: left;
+    border: 2px solid black;
+}
+aside{
+    margin-left: 5%;
+    width: 23%;
+    height: 100px;
+    background-color: darkgreen;
+    border: 2px solid black;
+}
+footer{
+    margin-left: 5%;
+    width: 90%;
+    height: 100px;
+    background-color: deepskyblue;
+    border: 2px solid black;
+}
