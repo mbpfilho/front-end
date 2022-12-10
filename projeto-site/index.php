@@ -12,6 +12,7 @@
         <div class="logo">
             <p>MB<br>Soluções</p>
         </div>
+        
         <div class="login">
             <form action="" class="formulario">
                 <input type="email" class="email" placeholder="seu e-mail">
@@ -19,6 +20,7 @@
                 <input type="submit" value="Logar" class="botao">
             </form>
         </div>
+        <div class="banner"></div>
     </div>
 </body>
 </html>
