@@ -26,10 +26,12 @@
     </div>
 
     <div class="menu">
-
+      para ferias 
     </div>
 
-    <div class="p1"></div>
+    <div class="p1">
+      para ferias produto título imagem e descricäo
+    </div>
     <div class="p2"></div>
     <div class="p3"></div>
     <div class="p4"></div>
