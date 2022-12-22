@@ -68,7 +68,15 @@ body{
   margin-bottom: 20px;
   text-align: center;
 }
-.p1{
+.produtos h1{
+  font-size: 6vh;
+  margin: 8vh 0;
+}
+.produtos p{
+  font-size: 3vmin;
+  margin: 10vmin 4vmin;
+}
+.produto1{
   width: 25%;
   height: 100%;
   box-sizing: border-box;
@@ -76,10 +84,10 @@ body{
   border: 1px solid black;
   float: left;
 }
-.p1 img{
-  width: 40%;
+.produto1 img{
+  width: 39%;
 }
-.p2{
+.produto2{
   width: 25%;
   height: 100%;
   box-sizing: border-box;
@@ -87,10 +95,10 @@ body{
   border: 1px solid black;
   float: left;
 }
-.p2 img{
+.produto2 img{
   width: 50%;
 }
-.p3{
+.produto3{
   width: 25%;
   height: 100%;
   box-sizing: border-box;
@@ -98,10 +106,10 @@ body{
   border: 1px solid black;
   float: left;
 }
-.p3 img{
+.produto3 img{
   width: 44%;
 }
-.p4{
+.produto4{
   width: 25%;
   height: 100%;
   box-sizing: border-box;
@@ -109,6 +117,6 @@ body{
   border: 1px solid black;
   float: left;
 }
-.p4 img{
+.produto4 img{
   width: 42%;
 }

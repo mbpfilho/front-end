@@ -29,20 +29,21 @@
         para ferias
       </div>
       <div class="produtos">
-        <div class="p1">
-          para ferias produto título imagem e descricäo.
+        <div class="produto1">
+          <h1>Website</h1>
           <img src="./src/website.png" alt="website">
+          <p>Criação, hospedagem e manutenção de Websites</p>
         </div>
 
-        <div class="p2">
+        <div class="produto2">
           <img src="./src/network.png" alt="rede de computadores">
         </div>
 
-        <div class="p3">
+        <div class="produto3">
           <img src="./src/seo.png" alt="otimização de mecanismos de busca">
         </div>
 
-        <div class="p4">
+        <div class="produto4">
           <img src="./src/social-media.png" alt="mídias sociais">
         </div>
       </div>
