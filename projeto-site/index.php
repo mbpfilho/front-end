@@ -26,7 +26,14 @@
         <!-- <img src="./src/banner.jpg" alt="banner distorcao gravitacional"> -->
       </div>
       <div class="menu">
-        para ferias
+        <table>
+          <tr>
+            <td>Quem somos</td>
+            <td>Log-in</td>
+            <td>Contato</td>
+            <td>Ajuda</td>
+          </tr>
+        </table>
       </div>
       <div class="produtos">
         <div class="produto1">
@@ -36,15 +43,21 @@
         </div>
 
         <div class="produto2">
+          <h1>Redes</h1>
           <img src="./src/network.png" alt="rede de computadores">
+          <p>Montagem e manutenção de Redes Internas</p>
         </div>
 
         <div class="produto3">
+          <h1>SEO</h1>
           <img src="./src/seo.png" alt="otimização de mecanismos de busca">
+          <p>Otimização de sua marca para que se destaque na internet</p>
         </div>
 
         <div class="produto4">
+          <h1>Redes Sociais</h1>
           <img src="./src/social-media.png" alt="mídias sociais">
+          <p>Ações de marketing e curadoria de conteúdo</p>
         </div>
       </div>
   </div>
