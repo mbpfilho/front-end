@@ -18,7 +18,7 @@
         <form action="" class="formulario">
           <input type="email" class="email" placeholder="seu e-mail">
           <input type="password" name="" id="" class="senha" placeholder="sua senha">
-          <input type="submit" value="Logar" class="botao">
+          <input type="submit" value="Entrar" class="botao">
         </form>
       </div>
     </div>
@@ -26,38 +26,43 @@
         <!-- <img src="./src/banner.jpg" alt="banner distorcao gravitacional"> -->
       </div>
       <div class="menu">
-        <table>
-          <tr>
-            <td>Quem somos</td>
-            <td>Log-in</td>
-            <td>Contato</td>
-            <td>Ajuda</td>
-          </tr>
-        </table>
+        <div><a href="#">Quem somos</a></div>
+        <div><a href="#">Cadastro</a></div>
+        <div><a href="#">Contato</a></div>
+        <div><a href="#">Ajuda</a></div>
+        <div><a href="#">Novidades</a></div>
       </div>
       <div class="produtos">
         <div class="produto1">
-          <h1>Website</h1>
-          <img src="./src/website.png" alt="website">
-          <p>Criação, hospedagem e manutenção de Websites</p>
+          <a href="">
+            <h1>Website</h1>
+            <img src="./src/website.png" alt="website">
+            <p>Criação, hospedagem e manutenção de Websites</p>
+          </a>
         </div>
 
         <div class="produto2">
-          <h1>Redes</h1>
-          <img src="./src/network.png" alt="rede de computadores">
-          <p>Montagem e manutenção de Redes Internas</p>
+          <a href="">
+            <h1>Redes</h1>
+            <img src="./src/network.png" alt="rede de computadores">
+            <p>Montagem e manutenção de Redes Internas</p>
+          </a>
         </div>
 
         <div class="produto3">
-          <h1>SEO</h1>
-          <img src="./src/seo.png" alt="otimização de mecanismos de busca">
-          <p>Otimização de sua marca para que se destaque na internet</p>
+          <a href="">
+            <h1>SEO</h1>
+            <img src="./src/seo.png" alt="otimização de mecanismos de busca">
+            <p>Otimização de sua marca para que se destaque na internet</p>
+          </a>
         </div>
 
         <div class="produto4">
-          <h1>Redes Sociais</h1>
-          <img src="./src/social-media.png" alt="mídias sociais">
-          <p>Ações de marketing e curadoria de conteúdo</p>
+          <a href="">
+            <h1>Redes Sociais</h1>
+            <img src="./src/social-media.png" alt="mídias sociais">
+            <p>Ações de marketing e curadoria de conteúdo</p>
+          </a>
         </div>
       </div>
   </div>
