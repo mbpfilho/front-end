@@ -26,14 +26,17 @@
         <!-- <img src="./src/banner.jpg" alt="banner distorcao gravitacional"> -->
       </div>
       <div class="menu">
-        <div><a href="#">Quem somos</a></div>
-        <div><a href="#">Cadastro</a></div>
-        <div><a href="#">Contato</a></div>
-        <div><a href="#">Ajuda</a></div>
-        <div><a href="#">Novidades</a></div>
+        <ul>
+          <li><a href="#">Início</a></li>
+          <li><a href="#">Quem somos</a></li>
+          <li><a href="#">Cadastro</a></li>
+          <li><a href="#">Contato</a></li>
+          <li><a href="#">Ajuda</a></li>
+        </ul>
+        
       </div>
       <div class="produtos">
-        <div class="produto1">
+        <div class="produto">
           <a href="">
             <h1>Website</h1>
             <img src="./src/website.png" alt="website">
@@ -41,15 +44,15 @@
           </a>
         </div>
 
-        <div class="produto2">
+        <div class="produto">
           <a href="">
             <h1>Redes</h1>
-            <img src="./src/network.png" alt="rede de computadores">
+            <img src="./src/network2.png" alt="rede de computadores">
             <p>Montagem e manutenção de Redes Internas</p>
           </a>
         </div>
 
-        <div class="produto3">
+        <div class="produto">
           <a href="">
             <h1>SEO</h1>
             <img src="./src/seo.png" alt="otimização de mecanismos de busca">
@@ -57,7 +60,7 @@
           </a>
         </div>
 
-        <div class="produto4">
+        <div class="produto">
           <a href="">
             <h1>Redes Sociais</h1>
             <img src="./src/social-media.png" alt="mídias sociais">
