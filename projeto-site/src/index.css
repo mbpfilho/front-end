@@ -4,7 +4,6 @@
 }
 body{
   background-color: darkgray;
-  margin-left: 5px;
   font-family:  Tahoma, Geneva, Verdana, sans-serif
 }
 .tronco{
@@ -120,4 +119,51 @@ body{
   display: flex;
   align-items: center;
   font-size: 1.4vmax;
+}
+.video{
+  width: 60%;
+  background-color: snow;
+  margin: 20px auto;
+}
+.video h3{
+  text-align: center;
+  color: navy;
+  font-size: 3vw;
+  padding: 6px;
+}
+.video video{
+  width: 100%;
+}
+.cadastro {
+  width: 70%;
+  margin: 20px auto;
+  background-color: snow;
+  padding: 12px;
+  font-size: 1.8vmax;
+  font-weight: bold;
+}
+.cadastro p{
+  padding: 6px;
+}
+.cadastro input{
+  font-size: inherit;
+}
+.cadastro button{
+  /* width: 9vmax;
+  height: 4vmax; */
+  font-size: inherit;
+  font-weight: inherit;
+  padding: .5em 1em;
+  margin: 6px;
+  background-color: dodgerblue;
+  border-radius: 3px;
+}
+footer{
+  width: 100%;
+  height: 20px;
+  background-color: dimgray;
+}
+footer p{
+  padding-left: 6px;
+  font-size: 16px;
 }
