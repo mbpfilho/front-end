@@ -68,27 +68,29 @@
           </a>
         </div>
       </div>
-    <div class="video">
-      <h3>Feliz 2023!!</h3>
-      <video controls src="./src/2023.mp4" type="video/mp4"></video>
-    </div>
-    <div class="cadastro">
-      <label for="cadastro">Cadastro</label>
-      <form action="#" id="cadastro">
-        <p>
-          Nome: <input style="width: 36vw" type="text" name="nome" id="nome">
-        </p>
-        <p>
-          E-mail: <input style="width: 24vw" type="email" name="email" id="email">
-        </p>
-        <p>
-          Telefone: <input style="width: 18vw" type="tel" name="telefone" id="telefone">
-        </p>
-        <p>
-          Endereço: <input style="width: 42vw" type="text" name="endereco" id="endereco">
-        </p>
-        <button type="submit">Enviar</button>
-      </form>
+    <div class="video-cadastro">
+      <div class="video">
+        <h3>Feliz 2023!!</h3>
+        <video controls src="./src/2023.mp4" type="video/mp4"></video>
+      </div>
+      <div class="cadastro">
+        <label for="cadastro">Cadastre-se</label>
+        <form action="#" id="cadastro">
+          <p>
+            Nome: <input style="width: 20vw" type="text" name="nome" id="nome">
+          </p>
+          <p>
+            E-mail: <input style="width: 16vw" type="email" name="email" id="email">
+          </p>
+          <p>
+            Telefone: <input style="width: 12vw" type="tel" name="telefone" id="telefone">
+          </p>
+          <p>
+            Endereço: <input style="width: 18vw" type="text" name="endereco" id="endereco">
+          </p>
+          <button type="submit">Enviar</button>
+        </form>
+      </div>
     </div>
   </div>
     <footer>

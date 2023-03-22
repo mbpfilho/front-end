@@ -120,6 +120,10 @@ body{
   align-items: center;
   font-size: 1.4vmax;
 }
+.video-cadastro{
+  width: 100%;
+  display: flex;
+}
 .video{
   width: 60%;
   background-color: snow;
@@ -135,7 +139,7 @@ body{
   width: 100%;
 }
 .cadastro {
-  width: 70%;
+  width: 40%;
   margin: 20px auto;
   background-color: snow;
   padding: 12px;
